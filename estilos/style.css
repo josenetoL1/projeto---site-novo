@@ -9,5 +9,6 @@ main{
     background-color: rgb(117, 47, 183);
     width: 500px;
     margin: auto;
-    box box-shadow: 3px 3px 5px;
+    padding: 10px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.24);
 }
